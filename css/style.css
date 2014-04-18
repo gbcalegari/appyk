@@ -84,10 +84,12 @@
 		
 		
 	.question{
-		margin-bottom: 4em;
-		overflow: hidden;
 		position: relative;
 	}		
+	
+		.question img{
+			width: 100%;
+		}
 			
 			
 			
