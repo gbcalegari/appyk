@@ -85,9 +85,16 @@
 		
 		
 	.site-header{
-		position: absolute;
+		margin: 0 auto;
+		position: relative;
+		width: 960px;
 	}	
 		
+		.site-header .wrapper{
+			position: absolute;
+			top: 0;
+			left: 0;
+		}
 		
 		
 		
