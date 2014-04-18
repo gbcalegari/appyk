@@ -74,7 +74,7 @@
 			
 	.wrapper{
 		margin: 0 auto;
-		max-width: 960px;
+		max-width: 720px;
 		padding: 0 24px;
 		width: 100%;
 	}		
@@ -87,7 +87,7 @@
 	.site-header{
 		margin: 0 auto;
 		position: relative;
-		width: 960px;
+		width: 720px;
 		z-index: 100;
 	}	
 		
