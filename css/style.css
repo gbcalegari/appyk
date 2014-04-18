@@ -97,13 +97,12 @@
 			left: 0;
 		}
 		
-		
-		
-	.question{
-		position: relative;
-	}		
 	
-		.question img{
+	.question{
+		margin-bottom: 38px;
+	}
+	
+		.question-img{
 			width: 100%;
 		}
 			
